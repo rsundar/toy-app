@@ -4,4 +4,8 @@ class ApplicationController < ActionController::Base
     def hello
         render html: "hello, world!"
     end
+
+    def spanish_hello
+        render html: "Hola, Mundo!"
+    end
 end
