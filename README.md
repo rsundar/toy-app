@@ -6,13 +6,12 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Ruby,
+- Ruby on Rails
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://serene-anchorage-19389.herokuapp.com/)
 
 
 ## Getting Started
