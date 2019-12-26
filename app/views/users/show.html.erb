@@ -12,7 +12,7 @@
 
 <p>
   <strong>Microposts:</strong>
-  <%= @user.microposts%>
+  <%= @user.microposts[0][:content] %>
 </p>
 
 <%= link_to 'Edit', edit_user_path(@user) %> |
